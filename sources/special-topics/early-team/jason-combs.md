@@ -66,6 +66,13 @@
 
 ---
 
+## X
+
+**Handle:** [@jasonsbmoc](https://x.com/jasonsbmoc)
+Note: confirmed by superpower (X); also named in Hannah friendship circle.
+
+---
+
 ## Career timeline (public)
 
 ```mermaid
