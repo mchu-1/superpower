@@ -7,11 +7,11 @@
 
 | Output / fact domain | Agent / label | Source file (absolute) | Date | Notes |
 | --- | --- | --- | --- | --- |
-| Primary website brief | **superpower (in)** | `/workspace/superpower-health-company-brief.md` | Sep 2026 | Longest official-site brief; copied → `sources/website-brief.md`. Attachment mirror: agent `70df4b9e-…` |
-| Secondary website brief (outbound/sitemap) | **superpower (out)** | `/workspace/superpower-health/company-brief.md` | Sep 2026 | Inbound hyperlink tree + shorter snapshot. Attachment: agent `def501c6-…` |
+| Full official-site company brief | **superpower (out)** / site pack | `/workspace/superpower-health-company-brief.md` | Sep 2026 | → `sources/web/company-brief.md` (legacy mirror: `sources/website-brief.md`). Attachment: agent `70df4b9e-…` |
+| Inbound sitemap / nav notes | **superpower (in)** | inbound scrape (def501c6) | Sep 2026 | → `sources/web/inbound-notes.md` (~7.4k URLs; Explore / Compare / Company / Legal) |
 | Multi-source diligence brief | (workspace pack) | `/workspace/superpower/SUPERPOWER_HEALTH_COMPANY_BRIEF.md` | Sep 2026 | Includes off-site press, lawsuit docket, Sacra; used only where labelled **[off-site]** |
 | Official Series A notes | first-party page extract | `/workspace/superpower/OFFICIAL_Series_A.md` | Sep 2026 | From https://superpower.com/series-a → `sources/series-a.md` |
-| X/Twitter brief + screenshots | **superpower (X)** | `/workspace/superpower-x/BRIEF.md` + PNGs | Sep 2026 | → `sources/x-brief.md` + `assets/`. Attachment: agent `5b6cff69-…` |
+| X/Twitter brief + status IDs + screenshots | **superpower (X)** | `/workspace/superpower-x/BRIEF.md` + deep OrganAge/Giannis + PNGs | Sep 2026 | → `sources/x/` + `assets/` (legacy: `sources/x-brief.md`). Attachment: agent `5b6cff69-…` |
 | Company overview / pricing / labs / legal / contact | consolidated | derived from above | Sep 2026 | Prefer official-site; flag conflicts |
 | Leadership (Kevin full name, X status) | site + X | website briefs + x-brief | Sep 2026 | Site often says “Kevin” only; X names Kevin Unkrich |
 | Investors | Series A page | `sources/series-a.md` | Sep 2026 | Canonical $30M Forerunner-led list |
@@ -31,3 +31,8 @@
 | **[off-site]** | Press, Sacra, LinkedIn, dockets, third-party estimates |
 | **[X]** | Public X.com profile notes |
 | **Conflict** | Same-site or cross-source disagreement — both sides kept |
+
+## Source packs (preferred paths)
+
+- Web: `sources/web/company-brief.md`, `sources/web/inbound-notes.md`
+- X: `sources/x/README.md`, `sources/x/BRIEF.md`

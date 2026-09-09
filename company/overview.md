@@ -44,6 +44,11 @@ Working diligence stack from primary launch coverage: ~**$34M** disclosed (pre-s
 | **Join 150,000+ others** | Email/waitlist CTA framing — not clearly “paying members” | Footer CTAs |
 | **Conflict:** member vs waitlist figures | Do not collapse into one “members” number | Flagged discrepancy |
 
+## Cross-checks (site vs X)
+
+- **Feminade:** not documented on the official site as a dedicated acquisition (Base acquisition is); treat Feminade claims as non-primary / off-site or waitlist-adjacent.
+- **Giannis wording split:** company X = “first brand ambassador”; Jacob (@J__Cub) = “first athlete” — keep both; do not collapse.
+
 ## Related
 
 - Product & pricing → [product-pricing.md](product-pricing.md)

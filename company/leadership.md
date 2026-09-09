@@ -38,3 +38,7 @@ Previously visible in LinkedIn / public context (may change — verify live): Cl
 ## Culture (careers — official)
 
 Flat “founder mode”; in-person SF for engineering/product/design/ops/legal/clinical; brand/creative/marketing can be remote; claims visa sponsorship; team self-description includes former founders / YC / Thiel Fellow narratives on careers page.
+
+## Cross-checks
+- **Giannis wording split (X):** company = “first brand ambassador”; Jacob = “first athlete.”
+- **Feminade:** not on official site as a dedicated acquisition page (unlike Base).

@@ -16,9 +16,13 @@ Target remote (not pushed from this tree): `https://github.com/mchu-1/superpower
 | [company/legal-compliance.md](company/legal-compliance.md) | Key legal pages + notes |
 | [company/investors.md](company/investors.md) | Series A and backers |
 | [company/contact.md](company/contact.md) | Emails, socials, careers |
-| [sources/website-brief.md](sources/website-brief.md) | Primary official-site brief (longest accurate) |
-| [sources/x-brief.md](sources/x-brief.md) | X/Twitter compiled notes |
+| [sources/web/company-brief.md](sources/web/company-brief.md) | Full official-site company brief |
+| [sources/web/inbound-notes.md](sources/web/inbound-notes.md) | Sitemap (~7.4k) + primary nav notes |
+| [sources/x/README.md](sources/x/README.md) | X handles + status IDs (OrganAge, Giannis) |
+| [sources/x/BRIEF.md](sources/x/BRIEF.md) | X/Twitter compiled brief |
 | [sources/series-a.md](sources/series-a.md) | Official Series A page notes |
+| [sources/website-brief.md](sources/website-brief.md) | Legacy copy of primary site brief (superseded by `sources/web/`) |
+| [sources/x-brief.md](sources/x-brief.md) | Legacy X brief (superseded by `sources/x/`) |
 | [assets/](assets/) | X profile screenshots (company + founders) |
 | [SOURCES.md](SOURCES.md) | Provenance table |
 
@@ -26,9 +30,9 @@ Target remote (not pushed from this tree): `https://github.com/mchu-1/superpower
 
 | Agent label | Role | What it contributed |
 | --- | --- | --- |
-| **superpower (in)** | Official website inbound crawl | Longest accurate site brief → `sources/website-brief.md`; primary facts for overview, product, labs, legal, contact |
-| **superpower (out)** | Site outbound / inbound hyperlink tree | Secondary site brief (`company-brief.md`); sitemap/nav structure; some contact & legal cross-checks |
-| **superpower (X)** | X.com public profiles | `sources/x-brief.md` + PNGs in `assets/`; founder handle confirmation; Kevin Unkrich status note |
+| **superpower (in)** | Official website inbound crawl | Sitemap/nav → `sources/web/inbound-notes.md`; primary facts for overview, product, labs, legal, contact |
+| **superpower (out)** | Official-site sourced company brief | Full brief → `sources/web/company-brief.md` (also mirrored historically as `sources/website-brief.md`) |
+| **superpower (X)** | X.com public profiles | `sources/x/` (README + BRIEF) + PNGs in `assets/`; OrganAge/Giannis status IDs; Kevin Unkrich step-away |
 
 **Preference order:** official-site facts first; Series A page as canonical funding narrative; off-site / inferred / conflicting claims marked clearly in company docs.
 
