@@ -21,4 +21,6 @@ Approx. **~7.4k URLs** across sub-sitemaps:
 - **Company**
 - **Legal**
 
+Full inbound tree → [inbound-tree.md](inbound-tree.md).
+
 Full official-site brief → [company-brief.md](company-brief.md).

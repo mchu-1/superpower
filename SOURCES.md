@@ -8,7 +8,7 @@
 | Output / fact domain | Agent / label | Source file (absolute) | Date | Notes |
 | --- | --- | --- | --- | --- |
 | Full official-site company brief | **superpower (out)** / site pack | `/workspace/superpower-health-company-brief.md` | Sep 2026 | → `sources/web/company-brief.md` (legacy mirror: `sources/website-brief.md`). Attachment: agent `70df4b9e-…` |
-| Inbound sitemap / nav notes | **superpower (in)** | inbound scrape (def501c6) | Sep 2026 | → `sources/web/inbound-notes.md` (~7.4k URLs; Explore / Compare / Company / Legal) |
+| Inbound sitemap / nav notes | **superpower (in)** | inbound scrape (def501c6) | Sep 2026 | → `sources/web/inbound-tree.md` (full) + `sources/web/inbound-notes.md` (~7.4k URLs; Explore / Compare / Company / Legal) |
 | Multi-source diligence brief | (workspace pack) | `/workspace/superpower/SUPERPOWER_HEALTH_COMPANY_BRIEF.md` | Sep 2026 | Includes off-site press, lawsuit docket, Sacra; used only where labelled **[off-site]** |
 | Official Series A notes | first-party page extract | `/workspace/superpower/OFFICIAL_Series_A.md` | Sep 2026 | From https://superpower.com/series-a → `sources/series-a.md` |
 | X/Twitter brief + status IDs + screenshots | **superpower (X)** | `/workspace/superpower-x/BRIEF.md` + deep OrganAge/Giannis + PNGs | Sep 2026 | → `sources/x/` + `assets/` (legacy: `sources/x-brief.md`). Attachment: agent `5b6cff69-…` |
@@ -34,5 +34,5 @@
 
 ## Source packs (preferred paths)
 
-- Web: `sources/web/README.md`, `sources/web/company-brief.md`, `sources/web/inbound-notes.md`
+- Web: `sources/web/README.md`, `sources/web/company-brief.md`, `sources/web/inbound-tree.md`, `sources/web/inbound-notes.md`
 - X: `sources/x/README.md`, `sources/x/BRIEF.md`
