@@ -79,4 +79,14 @@ Deal terms undisclosed in these writeups. Secondary: ~5k subscribers / lists / s
 
 ---
 
+---
+
+## Related off-site residual branding (X)
+
+Not on-site, but useful inbound context: Feminade’s X account still brands the acquisition and points members to Superpower.
+
+| Asset | Evidence |
+| --- | --- |
+| [feminadeinc-x-profile.png](assets/feminadeinc-x-profile.png) | **[X]** Display name “Feminade (acquired by Superpower)”; link `superpower.com/welcome?via=fe…` — referral-style destination consistent with on-site `via=feminade` plumbing. Full write-up: [feminade.md](feminade.md). |
+
 *Inbound lane · quiet weekday scrape — ping only on material change.*

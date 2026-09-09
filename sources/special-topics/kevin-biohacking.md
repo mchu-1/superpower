@@ -106,6 +106,34 @@ Treat biomarkers/pricing on this page as **legacy marketing** that may conflict 
 - Safe: *Kevin Unkrich publicly brands as “(bio)hacker, minimalist”; co-founder/former CTO; founding story tied to a friend’s death from a brain tumor after delayed recognition / MRI (official blog + press).*  
 - Unsafe: *Kevin publishes a verified personal longevity protocol / clinical credentials* — **not supported**.
 
+---
+
+## Screenshots (local assets)
+
+### X profile bio
+
+![Kevin Unkrich X profile](assets/kevin-bio-profile.png)
+
+| Asset | Evidence from screenshot |
+| --- | --- |
+| [kevin-bio-profile.png](assets/kevin-bio-profile.png) | **[X]** Bio verbatim: *(bio)hacker, minimalist \| prev founded @superpower; @ycombinator s20 alum; aws engineer; 30u30* · Location **San Francisco, CA** · Joined Mar 2012 |
+
+### Founder Health Coalition (Superpower Labs)
+
+![Founder Health Coalition announcement](assets/kevin-founder-health-coalition.png)
+
+| Asset | Evidence from screenshot |
+| --- | --- |
+| [kevin-founder-health-coalition.png](assets/kevin-founder-health-coalition.png) | **[X]** Kevin announces **Founder Health Coalition** via **Superpower Labs**; personal health-breakdown framing (80-hour weeks → 0; sleep/breaks/health as foundation). |
+
+### Base acquisition (May 30, 2025)
+
+![Kevin Base acquisition post](assets/kevin-base-acquisition.png)
+
+| Asset | Evidence from screenshot |
+| --- | --- |
+| [kevin-base-acquisition.png](assets/kevin-base-acquisition.png) | **[X]** Post **9:51 AM · May 30, 2025**; embeds press noting Base acquired on heels of **$30M Series A**; **second deal of the year**; link card “Superpower x Base” / members skip waitlist. |
+
 ### Related
 - [kevin-cto-stepdown.md](kevin-cto-stepdown.md)  
 - [feminade.md](feminade.md)

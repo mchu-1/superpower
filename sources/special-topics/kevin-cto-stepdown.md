@@ -87,6 +87,16 @@ timeline
 - Safe: *Co-founder; former CTO; stepped away 2026-03-13 after 3+ years (his own X/LinkedIn).*  
 - Unsafe: *Current CTO of Superpower* (contradicted by primary self-statements).
 
+---
+
+## Screenshots (local assets)
+
+![Kevin CTO step-away X post](assets/kevin-cto-stepaway.png)
+
+| Asset | Evidence from screenshot |
+| --- | --- |
+| [kevin-cto-stepaway.png](assets/kevin-cto-stepaway.png) | **[X]** Co-founder/CTO after **3+ years**; steps away from Superpower Health; subscribe updates at **unkri.ch**. |
+
 ### Related drafts
 - [kevin-biohacking.md](kevin-biohacking.md) — bio / founding wound / self-ID as (bio)hacker  
 - [feminade.md](feminade.md) — acquisition (separate topic; Kevin not a primary Feminade source)

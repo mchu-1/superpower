@@ -115,6 +115,16 @@ timeline
 - Current status of Feminade members’ data/products inside Superpower catalog  
 - Whether a `/s/feminade` page ever existed and was removed, or never shipped  
 
+---
+
+## Screenshots (local assets)
+
+![@feminadeinc X profile](assets/feminadeinc-x-profile.png)
+
+| Asset | Evidence from screenshot |
+| --- | --- |
+| [feminadeinc-x-profile.png](assets/feminadeinc-x-profile.png) | **[X]** Handle **@feminadeinc**; display name **“Feminade (acquired by Superpower)”**; bio “Unlock The Healing Power of Your Hormones”; profile link to **superpower.com/welcome?via=fe…** (Feminade referral). Joined Nov 2019. |
+
 ### Related
 - [kevin-cto-stepdown.md](kevin-cto-stepdown.md)  
 - [kevin-biohacking.md](kevin-biohacking.md)  
