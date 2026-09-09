@@ -1,10 +1,10 @@
 # Superpower special topics (drafts)
 
-**Location:** `/workspace/superpower-special-topics/`  
+**Location:** `sources/special-topics/`  
 **Compiled:** 2026-09-09 (Australia/Sydney)  
-**Status:** Local drafts only — **do not push** from this subagent; parent owns GitHub.
+**Status:** Tracked under `sources/special-topics/` in this repo.
 
-Scannable research packs for three diligence topics that sit beside the main company brief. Every material claim in the topic files is labeled with a URL or `[off-site]` / `[X]` / `[inferred]`.
+Scannable research packs for diligence topics that sit beside the main company brief. Every material claim in the topic files is labeled with a URL or `[off-site]` / `[X]` / `[inferred]`.
 
 ---
 
@@ -14,6 +14,7 @@ Scannable research packs for three diligence topics that sit beside the main com
 | --- | --- | --- | --- |
 | [kevin-cto-stepdown.md](kevin-cto-stepdown.md) | Kevin Unkrich steps away as CTO | **High** on exit date/role (his LinkedIn + X) | Successor CTO; post-exit equity/advisor status; durable X status ID |
 | [kevin-biohacking.md](kevin-biohacking.md) | Kevin biohacking / health background | **High** on self-ID “(bio)hacker” + founding wound | No ungated personal protocol; Forbes 30u30 primary profile URL; unkri.ch gated |
+| [kevin-on-x.md](kevin-on-x.md) | Kevin Unkrich on X (public/logged-out scrape) | **High** on CTO step-down + Base announcement status IDs | Feminade: account rename only; no founder/company X announcement; no personal stack post |
 | [feminade.md](feminade.md) | Feminade acquisition / Superpower relationship | **High** that a deal was announced Jan 2025 (Axios, Roya, femtech press) | Official `/s/feminade` **404**; deal $; member migration; feminade.com live behavior |
 | [feminade-inbound.md](feminade-inbound.md) | Feminade on-site / inbound tree | **High** that `/s/feminade` is 404 and only `via=feminade` residual plumbing remains | Live acquisition LP; modal markup; on-site naming |
 
@@ -56,6 +57,6 @@ X / LinkedIn self-statements · superpower.com · Axios · TechCrunch / Fierce /
 
 ---
 
-## Suggested parent push path
+## Notes
 
-Copy or move these four files into the company profile repo (e.g. `sources/special-topics/` or `company/special-topics/`) in a dedicated commit. Do **not** invent missing acquisition pages or a current CTO title for Kevin.
+Do **not** invent missing acquisition pages or a current CTO title for Kevin. X lane file: [kevin-on-x.md](kevin-on-x.md).
