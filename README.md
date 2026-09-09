@@ -41,7 +41,7 @@ Provenance map: [SOURCES.md](SOURCES.md)
 | [kevin-cto-stepdown.md](sources/special-topics/kevin-cto-stepdown.md) | Stub → kevin-on-x |
 | [kevin-biohacking.md](sources/special-topics/kevin-biohacking.md) | Stub → kevin-on-x |
 | [feminade.md](sources/special-topics/feminade.md) | Feminade inbound + outbound (one file) |
-| [early-team/](sources/special-topics/early-team/) | Early non-biomed team dig (Hannah Ahn seed) |
+| [early-team/](sources/special-topics/early-team/) | Early non-biomed / design digs |
 
 ## Assets
 

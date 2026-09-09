@@ -115,10 +115,16 @@ Careers copy also claims a team dense with former founders, YC alumni, a Thiel F
 
 ---
 
-## Early non-biomed team (special topic)
+## Design & brand (early non-biomed)
 
-Public dig on early **non-biomed** operators (product, design, eng, growth) lives under [sources/special-topics/early-team/](../sources/special-topics/early-team/). Seed profile: **[Hannah Ahn](../sources/special-topics/early-team/hannah-ahn.md)** (Founding Designer / Head of Design). Roster index: [early-non-biomed-roster.md](../sources/special-topics/early-team/early-non-biomed-roster.md). Do not duplicate long prose here.
+**Hannah Ahn** — Founding Designer (Jul 2024) → Head of Design; founder-class vanity `/hannah`; prior Next Chapter with Max. High confidence early core; not a day-0 legal co-founder.  
+**Tracy Chen** — Daybreak product design for Superpower ~2 years before Aug 2026 hire; continuity, not founding.  
+**Jason Combs & Aimee Lee** — 2026 brand/creative hires.  
+**Annie Whelan** — enterprise/sales; out of design-org narrative.  
 
+Digs: [`sources/special-topics/early-team/`](../sources/special-topics/early-team/).
+
+> **X footnote (Hannah):** design squad named on X — [`@nilseller`](https://x.com/nilseller) [`@flornkm`](https://x.com/flornkm) [`@jarviswang__`](https://x.com/jarviswang__) (hire post [`1999236065417425277`](https://x.com/hannah_ahn/status/1999236065417425277)). Not early-core, just adjacent bench.
 
 ---
 

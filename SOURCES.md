@@ -28,6 +28,9 @@
 | `sources/special-topics/kevin-biohacking.md` | special | Stub → kevin-on-x |
 | `sources/special-topics/feminade.md` | special | Feminade inbound+outbound |
 | `sources/special-topics/assets/` | special | Kevin / Feminade screenshots |
+| `sources/special-topics/early-team/` | special | Early non-biomed / design digs |
+| `sources/special-topics/early-team/hannah-ahn.md` | special | Hannah Ahn pack |
+| `sources/special-topics/early-team/early-non-biomed-roster.md` | special | Non-biomed roster |
 | `assets/` | x | Company + founder profile shots |
 
 ## Evidence labels
