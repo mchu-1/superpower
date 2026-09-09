@@ -108,7 +108,6 @@ Names that have appeared in LinkedIn / public company context—**may change; no
 - Shaun Miller — VP Medical Operations  
 - Sofía Prendoné Pita — Clinical Operations  
 - Manoj Arachige — Head of Product  
-- Hannah Ahn — Head of Design — dig: [sources/special-topics/early-team/hannah-ahn.md](../sources/special-topics/early-team/hannah-ahn.md)  
 - Tim Denman — VP Enterprise (reported in some contexts)
 
 Careers copy also claims a team dense with former founders, YC alumni, a Thiel Fellow, and operators from places like Goldman, Amazon, and Harvard Medical School. That is self-description for recruiting, not an org chart.
@@ -143,6 +142,7 @@ Official careers language describes flat “founder mode,” radical empowerment
 | Kevin Unkrich | Co-founder; former CTO | Friend’s late MRI | High as founder; **low as current operator** |
 | Dr Anant Vinjamoori | Chief Longevity Officer | Longevity / clinical framing | High for title; bio details partly off-site |
 | Named MDs on site | Advisors / featured | Specialty credibility | Marketing-visible; verify live |
+| Hannah Ahn | Founding Designer → Head of Design | Early design & brand core | High as early core; **not** day-0 legal co-founder |
 | Ops / product names | Soft LinkedIn context | Execution layer | Verify before citing |
 
 Together they sell one sentence: **the people who built Superpower were failed by reactive care, then hired clinical and product talent to productise earlier signal.** For the full company arc—pricing, capital, competition, litigation—see [narrative.md](narrative.md).
