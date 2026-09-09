@@ -17,6 +17,7 @@ Scannable research packs for diligence topics that sit beside the main company b
 | [kevin-on-x.md](kevin-on-x.md) | Kevin Unkrich on X (public/logged-out scrape) | **High** on CTO step-down + Base announcement status IDs | Feminade: account rename only; no founder/company X announcement; no personal stack post |
 | [feminade.md](feminade.md) | Feminade acquisition / Superpower relationship | **High** that a deal was announced Jan 2025 (Axios, Roya, femtech press) | Official `/s/feminade` **404**; deal $; member migration; feminade.com live behavior |
 | [feminade-inbound.md](feminade-inbound.md) | Feminade on-site / inbound tree | **High** that `/s/feminade` is 404 and only `via=feminade` residual plumbing remains | Live acquisition LP; modal markup; on-site naming |
+| [feminade-outbound.md](feminade-outbound.md) | Feminade outbound / off-site pack | **High** that deal was announced off-site only (Axios/Roya/femtech); no durable acq status ID | Official LP never recovered; @feminadeinc rename timing vs announcement |
 
 ---
 
@@ -58,5 +59,7 @@ X / LinkedIn self-statements · superpower.com · Axios · TechCrunch / Fierce /
 ---
 
 ## Notes
+
+**Feminade inbound ↔ outbound cross-check:** `@feminadeinc` rename + no acquisition status ID on X aligns with `/s/feminade` **404** and an **off-site-only** announcement (no durable on-site acquisition LP). See [feminade-inbound.md](feminade-inbound.md) and [feminade-outbound.md](feminade-outbound.md).
 
 Do **not** invent missing acquisition pages or a current CTO title for Kevin. X lane file: [kevin-on-x.md](kevin-on-x.md).
