@@ -12,8 +12,7 @@
 
 | Path | Contents |
 |---|---|
-| [`hannah-ahn.md`](./hannah-ahn.md) | Hannah Ahn public profile: LinkedIn, X, role, prior companies, education, non-biomed assessment, labeled claims |
-| [`hannah-ahn-inbound.md`](./hannah-ahn-inbound.md) | On-site inbound pack: Head of Design byline, `/hannah` → `via=super-hannah` founder-class vanity, adjacent design cluster |
+| [`hannah-ahn.md`](./hannah-ahn.md) | Hannah Ahn consolidated pack: **inbound (on-site)** + **outbound (off-site)** in one file — vanity path `/hannah`→`via=super-hannah`, Jason Combs / adjacent design cluster, LinkedIn/Canva/Flair/Next Chapter, podcasts, timeline, NYT disambiguation, non-biomed assessment |
 | [`early-non-biomed-roster.md`](./early-non-biomed-roster.md) | Table of early non-biomed candidates + confidence; explicit biomed exclusions |
 | [`README.md`](./README.md) | This index |
 
@@ -37,7 +36,7 @@ Absolute paths on the box:
 
 ## Key findings (executive)
 
-- **Hannah Ahn** is publicly **Founding Designer (from ~Jul 2024)** and **Head of Design (from ~Apr 2025)** at Superpower; X **@hannah_ahn**; LinkedIn **linkedin.com/in/ahnhannah**. Non-biomed: Canva PM → design agency (Flair) → Superpower; UNSW CS/Science discontinued. Email publicly listed as hannah@superpower.com on Read.cv indexes.  
+- **Hannah Ahn** is publicly **Founding Designer (from ~Jul 2024)** and **Head of Design (from ~Apr 2025)** at Superpower; X **@hannah_ahn**; LinkedIn **linkedin.com/in/ahnhannah**. Non-biomed: Canva PM → design agency (Flair) → Superpower; UNSW CS/Science discontinued. Email publicly listed as hannah@superpower.com on Read.cv indexes. On-site: named Head of Design on Jason Combs join post; founder-class vanity **`/hannah` → `via=super-hannah`**. Full inbound+outbound detail lives in [`hannah-ahn.md`](./hannah-ahn.md).  
 - **Three co-founders** (Jacob Peters, Max Marchione, Kevin Unkrich) are repeatedly named in TechCrunch/BusinessWire/Forbes; education/career paths are **commerce / CS-engineering**, not medical school. X: **@J__Cub**, **@maxmarchione**, **@kevinunkrich**.  
 - **Nikita Mashchenko** claims **first hire / founding engineer** from **Dec 2023** (CS, UIUC) — strongest non-founder eng early signal.  
 - Other strong non-biomed early candidates: **Amada Reyes** (Founding Team Jan 2024, GTM/community), **Albe Tremblay** (Founding GTM Partnerships Aug 2024).  
