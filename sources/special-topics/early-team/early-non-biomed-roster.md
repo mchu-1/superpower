@@ -76,26 +76,27 @@ Press does **not** name Hannah Ahn or Nikita Mashchenko in the TechCrunch launch
 
 ---
 
-## Adjacent design cluster seeds (on-site)
+## Adjacent design / GTM cluster (full packs)
 
-Not yet full memos — useful next digs from Hannah inbound:
+Clarify vs founding core:
 
-| Person | On-site signal | Blog URL |
-|---|---|---|
-| **Jason Combs** | Brand/content; recruited via Hannah | https://superpower.com/blog/why-i-joined-superpower-jason-combs |
-| **Tracy Chen** | Product design; Daybreak agency (Superpower client ~2 yrs) | https://superpower.com/blog/why-i-joined-superpower-tracy-chen |
-| **Aimee Lee** | Branding → Superpower brand rebuild | https://superpower.com/blog/why-i-joined-superpower-aimee-lee |
-| **Annie Whelan** | Benefits consulting → health tech | https://superpower.com/blog/why-i-joined-superpower-annie-whelan |
-
-**Note:** `/hannah` redirects to `/welcome?via=super-hannah` (founder-class vanity). Tracy / Aimee / Annie / Jason short paths → 404 (no vanity). Details: [`hannah-ahn.md`](./hannah-ahn.md) (On-site inbound section).
+| Person | Classification | Pack | Vanity | Blog | Author |
+|---|---|---|---|---|---|
+| **Hannah Ahn** | **Early design lead / founder-class vanity** | [`hannah-ahn.md`](./hannah-ahn.md) | `/hannah` → `via=super-hannah` | *(no own join letter)* | — |
+| **Tracy Chen** | **Early agency relationship (~2 yr Daybreak) then Aug 2026 hire** — highest early-relationship in this set; **not** founding employee tenure | [`tracy-chen.md`](./tracy-chen.md) | `/tracy` **404** | [join letter](https://superpower.com/blog/why-i-joined-superpower-tracy-chen) | [/author/tracy-chen](https://superpower.com/author/tracy-chen) |
+| **Jason Combs** | **2026 hire — not founding core** (Hannah-recruited brand/creative; Aug 25 2026 letter) | [`jason-combs.md`](./jason-combs.md) | `/jason` **404** | [join letter](https://superpower.com/blog/why-i-joined-superpower-jason-combs) | [/author/jason-combs](https://superpower.com/author/jason-combs) |
+| **Aimee Lee** | **2026 hire — not founding core** (brand / Art Director) | [`aimee-lee.md`](./aimee-lee.md) | `/aimee` **404** | [join letter](https://superpower.com/blog/why-i-joined-superpower-aimee-lee) | [/author/aimee-lee](https://superpower.com/author/aimee-lee) |
+| **Annie Whelan** (LI: **Annie (Whelan) Steidle**) | **2026 hire — not founding core** (Sales / Enterprise) | [`annie-whelan.md`](./annie-whelan.md) | `/annie` **404** | [join letter](https://superpower.com/blog/why-i-joined-superpower-annie-whelan) | [/author/annie-whelan](https://superpower.com/author/annie-whelan) |
 
 **X design squad (named by Hannah, Dec 2025 hire tease):** [@nilseller](https://x.com/nilseller) · [@flornkm](https://x.com/flornkm) · [@jarviswang__](https://x.com/jarviswang__) — see `hannah-ahn.md` ## X. Jason Combs on X: [@jasonsbmoc](https://x.com/jasonsbmoc).
 
+Do **not** promote Jason / Aimee / Annie into the “core non-biomed shortlist” above without new early-tenure evidence. Tracy may inform product-continuity diligence via Daybreak, but calendar employee start is **Aug 2026**.
 
 ## Gaps
 
 - [gap] Many X handles beyond founders + Hannah + design squad (@nilseller @flornkm @jarviswang__) / @jasonsbmoc not verified this pass.  
 - [gap] Full org chart / cap table / offer letters not public.  
 - [gap] “Founding Engineer” title used into 2025 — title inflation risk; prefer calendar evidence.  
-- [gap] Ashley Feist, Ben Acott (CMO, mentioned by Peters), Aimee Lee (Art Director) — public early-core evidence incomplete.  
+- [gap] Ashley Feist, Ben Acott (CMO, mentioned by Peters) — public early-core evidence incomplete.
+- [clarified] Aimee Lee / Jason Combs / Annie Whelan — full packs exist; classified as **2026 hires not founding core**. Tracy Chen pack exists; early *relationship* high, employee tenure Aug 2026.  
 - [off-site] LinkedIn HTML not fully fetched; rely on search snippets + aggregators where noted.
