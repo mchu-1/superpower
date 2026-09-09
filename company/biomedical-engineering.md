@@ -4,6 +4,8 @@
 **Owner lens:** biomarker panel + clinical intelligence layer + related bioeng stack  
 **Evidence standard:** Official-site preferred. Conflicts / litigation / secondary labelled.
 
+**Document role:** Formal engineering specification for the product stack (intake → assay → intelligence → action). Narrative people/org content lives in `founders-and-team.md` / `narrative.md`; this file does not duplicate those.
+
 ```mermaid
 flowchart LR
   subgraph intake [Sample intake]
@@ -62,7 +64,7 @@ flowchart LR
 | Entity | Superpower Health, Inc. | Official |
 | Product | Cash-pay membership: labs → dashboard → AI + care → marketplace | Official |
 | Legal posture | Tech facilitator; clinical care via affiliated Medical Groups | Terms |
-| Founders | Max Marchione (CEO), Jacob Peters, Kevin Unkrich (CTO) | Press / site |
+| Founders | Max Marchione (CEO), Jacob Peters, Kevin Unkrich (co-founder; stepped away as CTO **2026-03-13**) | Press / site; [kevin-on-x](../sources/special-topics/kevin-on-x.md) |
 | Clinical lead | Dr Anant Vinjamoori, MD — Chief Longevity Officer | Official |
 | Current consumer price | **$349/yr** (checkout NY/NJ often **$599**; some pages **$399** / 90+ markers) | Conflict |
 | Panel claim | **150+ biomarkers across 2 blood draws** | Homepage / FAQ |
