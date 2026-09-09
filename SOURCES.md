@@ -34,5 +34,5 @@
 
 ## Source packs (preferred paths)
 
-- Web: `sources/web/company-brief.md`, `sources/web/inbound-notes.md`
+- Web: `sources/web/README.md`, `sources/web/company-brief.md`, `sources/web/inbound-notes.md`
 - X: `sources/x/README.md`, `sources/x/BRIEF.md`
