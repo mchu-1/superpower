@@ -15,6 +15,7 @@
 | Company overview / pricing / labs / legal / contact | consolidated | derived from above | Sep 2026 | Prefer official-site; flag conflicts |
 | Leadership (Kevin full name, X status) | site + X | website briefs + x-brief | Sep 2026 | Site often says “Kevin” only; X names Kevin Unkrich |
 | Investors | Series A page + X | `sources/series-a.md`, `sources/x/series-a.md` | Sep 2026 | Canonical $30M Forerunner-led list; X status `1914701970830713224` frames Forerunner+Day One |
+| Special topics (Kevin CTO exit, biohacking, Feminade) | **special-topics** / inbound | `/workspace/superpower-special-topics/` + inbound Feminade pack | Sep 2026 | → `sources/special-topics/` (incl. `feminade-inbound.md`) |
 
 ## Agent attachment paths (if useful)
 
@@ -36,3 +37,4 @@
 
 - Web: `sources/web/README.md`, `sources/web/company-brief.md`, `sources/web/inbound-tree.md`, `sources/web/inbound-notes.md`
 - X: `sources/x/README.md`, `sources/x/BRIEF.md`, `sources/x/series-a.md` (+ `sources/x/assets/` screenshots)
+- Special topics: `sources/special-topics/README.md` (Kevin CTO stepdown, biohacking, Feminade, Feminade inbound)

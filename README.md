@@ -26,6 +26,7 @@ Target remote (not pushed from this tree): `https://github.com/mchu-1/superpower
 | [sources/website-brief.md](sources/website-brief.md) | Legacy copy of primary site brief (superseded by `sources/web/`) |
 | [sources/x-brief.md](sources/x-brief.md) | Legacy X brief (superseded by `sources/x/`) |
 | [assets/](assets/) | X profile screenshots (company + founders) |
+| [sources/special-topics/](sources/special-topics/) | Special topics: Kevin CTO exit, biohacking, Feminade (+ inbound) |
 | [SOURCES.md](SOURCES.md) | Provenance table |
 
 ## How sources were consolidated
@@ -36,6 +37,7 @@ Target remote (not pushed from this tree): `https://github.com/mchu-1/superpower
 | **superpower (out)** | Official-site sourced company brief | Full brief → `sources/web/company-brief.md` (also mirrored historically as `sources/website-brief.md`) |
 | **superpower (X)** | X.com public profiles | `sources/x/` (README + BRIEF + `series-a.md`) + PNGs in `assets/` and `sources/x/assets/`; OrganAge/Giannis/Series A status IDs; Kevin Unkrich step-away |
 | **superpower (engineer)** | Biomedical engineering map | `company/biomedical-engineering.md` — panel, clinical intel, OrganAge |
+| **special-topics** | Diligence packs (Kevin exit / biohacking / Feminade) | `sources/special-topics/` — CTO stepdown, biohacking, Feminade (+ inbound on-site) |
 
 **Preference order:** official-site facts first; Series A page as canonical funding narrative; off-site / inferred / conflicting claims marked clearly in company docs.
 
