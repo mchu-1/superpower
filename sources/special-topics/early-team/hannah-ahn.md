@@ -4,7 +4,7 @@
 **Prepared:** 2026-09-09 (AEST)  
 **Method:** WebSearch + WebFetch + selective curl of public pages. Prefer primary sources.  
 **Status:** Consolidated diligence draft — no invention; gaps labeled.  
-**Scope:** Official-site inbound + outbound (LinkedIn, CV, press/podcasts, personal).
+**Scope:** Official-site inbound + outbound (LinkedIn, CV, press/podcasts, personal) + X.
 
 ---
 
@@ -107,7 +107,7 @@ Daybreak also appears in site chrome historically (`daybreak-superpower.netlify.
 |---|---|---|---|
 | LinkedIn | https://www.linkedin.com/in/ahnhannah | Headline often “Design @ Superpower”; lists Head of Design + Founding Designer; about “Last updated: **15 Apr 2025**” | [primary — LinkedIn] |
 | X / Twitter | **@hannah_ahn** | Live profile title “Hannah Ahn (@hannah_ahn)”; og:description: `propagating hearsay ⋆ head of design @superpower ⋆ human` (fetched 2026-09-09) | [primary — X] |
-| X (legacy citation) | twitter.com/_hannahahn | Cited on LinkedIn/Village “About” text. Curl of `twitter.com/_hannahahn` returned **404 User Profile Not Found** (2026-09-09). **[inferred]** handle renamed/migrated to `@hannah_ahn`. | [primary citation + off-site gap] |
+| X (legacy citation) | twitter.com/_hannahahn | Cited on LinkedIn/Village “About” text. Curl of `twitter.com/_hannahahn` returned **404 User Profile Not Found** (2026-09-09). **Current handle is `@hannah_ahn`** (legacy `@_hannahahn` dead). **[inferred]** rename/migration. | [primary citation + off-site gap] |
 | Read.cv | https://read.cv/ahn | Search/index: “Founding Designer at Superpower”; designer from Sydney; leads design & marketing; prior Canva + own studio; email `hannah@superpower.com`. Direct fetch returned **402 Payment Required** (2026-09-09). | [primary intended; access gap] |
 | Personal site | https://www.hannah-ahn.com/ (linked from Read.cv snippets) | Curl returned `DEPLOYMENT_DISABLED` (2026-09-09). | [off-site / access gap] |
 | Village (aggregator) | https://village.ai/person/hannah-ahn-NTY5MTgzMDQ1 | Mirrors LinkedIn-style experience + About (incl. X citation); Flair / Canva dates | [secondary aggregator of LinkedIn-like data] |
@@ -264,6 +264,43 @@ timeline
 
 ---
 
+## X
+
+**Handle:** [@hannah_ahn](https://x.com/hannah_ahn) (not `@_hannahahn`)  
+**Bio:** propagating hearsay ⋆ head of design @superpower ⋆ human  
+**Joined:** Oct 2018 · SF · **75.7K** followers · blue verified
+
+### Key posts
+
+| Topic | Status ID | Notes |
+| --- | --- | --- |
+| Pinned — hire creatives | [`1975675919806419046`](https://x.com/hannah_ahn/status/1975675919806419046) | Oct 7 2025 · 888K views |
+| Design squad hire tease | [`1999236065417425277`](https://x.com/hannah_ahn/status/1999236065417425277) | Names @nilseller @flornkm @jarviswang__ |
+| Design engineer hire | [`1999235559362121866`](https://x.com/hannah_ahn/status/1999235559362121866) | Dec 11 2025 |
+| New healthcare system | [`2067661561985151254`](https://x.com/hannah_ahn/status/2067661561985151254) | Jun 18 2026 · design team &lt;5 |
+| Jason Combs join | [`2086847117285531781`](https://x.com/hannah_ahn/status/2086847117285531781) | Aug 10 2026 |
+
+### Friendship / early circle (Superpower-adjacent)
+
+| Tier | Person | Handle | Evidence |
+| --- | --- | --- | --- |
+| A | Max Marchione | @maxmarchione | Long-time friend; vision embeds |
+| A | Jason Combs | @jasonsbmoc | Joining Superpower brand |
+| A | Nils Eller | @nilseller | Named “design squad” |
+| A | Flor | @flornkm | Named “design squad” |
+| A | Jarvis Wang | @jarviswang__ | Named “design squad” |
+| B | Joumana Elomar | @JoumanaElomar | Unveil + ongoing creative |
+| B | Josh Puckett | @joshpuckett | “design dream team” |
+
+No confirmed X handles for Tracy Chen / Aimee Lee / Annie Whelan in this scrape.
+
+### Screenshots
+
+- [X profile](assets/hannah-ahn-x-profile.png)
+- [Design squad hire tease](assets/hannah-ahn-design-squad.png)
+
+---
+
 ## Gaps / open questions
 
 - [gap] Exact employment contract start date vs LinkedIn “Jul 2024” (Village).  
@@ -274,7 +311,7 @@ timeline
 - [gap] Robably Superpower project page **404** — Director credit unverified.  
 - [gap] Exact legal equity / “founding team” definition not public.  
 - [off-site] LinkedIn full HTML not scraped; details taken from search snippets + Village mirror + public posts. Re-verify on LinkedIn UI.  
-- [off-site] X timeline not fully scraped in all passes.
+- [off-site] X deep-dive folded under ## X (status IDs + friendship circle); full historical archive still incomplete.
 
 ---
 
