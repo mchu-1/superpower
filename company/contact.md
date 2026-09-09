@@ -30,7 +30,7 @@
 | LinkedIn | https://www.linkedin.com/company/superpower | Footer |
 | Trustpilot | https://www.trustpilot.com/review/superpower.com | Footer |
 
-Founder X handles (**[X]**): Max @maxmarchione · Jacob @J__Cub · Kevin @KevinUnkrich — see [../sources/x-brief.md](../sources/x-brief.md) and [../assets/](../assets/).
+Founder X handles (**[X]**): Max @maxmarchione · Jacob @J__Cub · Kevin @KevinUnkrich — see [../sources/x/BRIEF.md](../sources/x/BRIEF.md) and [../assets/](../assets/).
 
 ## Careers
 

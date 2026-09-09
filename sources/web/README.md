@@ -167,6 +167,7 @@ flowchart TB
 
 - Inbound hyperlink tree → [`inbound-tree.md`](./inbound-tree.md)
 - Long-form brief → [`company-brief.md`](./company-brief.md)
+- Official Series A page notes → [`series-a.md`](./series-a.md)
 - Short inbound notes → [`inbound-notes.md`](./inbound-notes.md)
 
 ---

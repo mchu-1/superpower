@@ -2,7 +2,7 @@
 
 ## Canonical (official Series A page)
 
-**Source:** https://superpower.com/series-a → [../sources/series-a.md](../sources/series-a.md)
+**Source:** https://superpower.com/series-a → [../sources/web/series-a.md](../sources/web/series-a.md)
 
 | Field | Detail |
 | --- | --- |

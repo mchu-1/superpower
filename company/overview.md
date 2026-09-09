@@ -53,4 +53,4 @@ Working diligence stack from primary launch coverage: ~**$34M** disclosed (pre-s
 
 - Product & pricing → [product-pricing.md](product-pricing.md)
 - Labs & geography → [labs-geography.md](labs-geography.md)
-- Full site brief → [../sources/website-brief.md](../sources/website-brief.md)
+- Full site brief → [../sources/web/company-brief.md](../sources/web/company-brief.md)

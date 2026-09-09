@@ -225,4 +225,4 @@ OrganAge systems: heart, brain, liver, kidneys, lungs, immune, metabolism, muscu
 - https://superpower.com/blog/your-data-protected-and-in-your-control  
 - https://superpower.com/legal/terms · /legal/membership · /legal/privacy  
 
-Related profile files: [product-pricing.md](product-pricing.md), [labs-geography.md](labs-geography.md), [legal-compliance.md](legal-compliance.md), [../sources/website-brief.md](../sources/website-brief.md).
+Related profile files: [product-pricing.md](product-pricing.md), [labs-geography.md](labs-geography.md), [legal-compliance.md](legal-compliance.md), [../sources/web/company-brief.md](../sources/web/company-brief.md).

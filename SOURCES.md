@@ -1,40 +1,47 @@
-# Sources — Provenance
+# Sources — Provenance map
 
-**Profile compiled:** September 2026  
-**Workspace root:** `/workspace/mchu-1-superpower/`
+**Compiled:** September 2026  
+**Rule:** Prefer official site; label conflicts; do not invent facts.
 
-## Provenance table
+## Path → lane
 
-| Output / fact domain | Agent / label | Source file (absolute) | Date | Notes |
-| --- | --- | --- | --- | --- |
-| Full official-site company brief | **superpower (out)** / site pack | `/workspace/superpower-health-company-brief.md` | Sep 2026 | → `sources/web/company-brief.md` (legacy mirror: `sources/website-brief.md`). Attachment: agent `70df4b9e-…` |
-| Inbound sitemap / nav notes | **superpower (in)** | inbound scrape (def501c6) | Sep 2026 | → `sources/web/inbound-tree.md` (full) + `sources/web/inbound-notes.md` (~7.4k URLs; Explore / Compare / Company / Legal) |
-| Multi-source diligence brief | (workspace pack) | `/workspace/superpower/SUPERPOWER_HEALTH_COMPANY_BRIEF.md` | Sep 2026 | Includes off-site press, lawsuit docket, Sacra; used only where labelled **[off-site]** |
-| Official Series A notes | first-party page extract | `/workspace/superpower/OFFICIAL_Series_A.md` | Sep 2026 | From https://superpower.com/series-a → `sources/series-a.md` |
-| X/Twitter brief + status IDs + screenshots | **superpower (X)** | `/workspace/superpower-x/BRIEF.md` + deep OrganAge/Giannis/Series A + PNGs | Sep 2026 | → `sources/x/` (incl. `series-a.md` + `assets/`) + root `assets/` (legacy: `sources/x-brief.md`). Attachment: agent `5b6cff69-…` |
-| Company overview / pricing / labs / legal / contact | consolidated | derived from above | Sep 2026 | Prefer official-site; flag conflicts |
-| Leadership (Kevin full name, X status) | site + X | website briefs + x-brief | Sep 2026 | Site often says “Kevin” only; X names Kevin Unkrich |
-| Investors | Series A page + X | `sources/series-a.md`, `sources/x/series-a.md` | Sep 2026 | Canonical $30M Forerunner-led list; X status `1914701970830713224` frames Forerunner+Day One |
-| Special topics (Kevin CTO exit, biohacking, Feminade) | **special-topics** / inbound | `/workspace/superpower-special-topics/` + inbound Feminade pack | Sep 2026 | → `sources/special-topics/` (incl. `feminade-inbound.md`) |
+| Path | Lane | What it is |
+| --- | --- | --- |
+| `company/narrative.md` | design | Primary company narrative (start here) |
+| `company/founders-and-team.md` | design | Founders & core team narratives |
+| `company/overview.md` | design | Snapshot / reference |
+| `company/leadership.md` | design | Roster tables |
+| `company/product-pricing.md` | design | Pricing reference (conflicts flagged) |
+| `company/labs-geography.md` | design | Labs & geography |
+| `company/biomedical-engineering.md` | engineer | Panel, clinical intel, OrganAge |
+| `company/investors.md` | design | Series A / backers |
+| `company/legal-compliance.md` | design | Legal pages |
+| `company/contact.md` | design | Contact / socials |
+| `sources/web/company-brief.md` | out | Full official-site company brief |
+| `sources/web/inbound-tree.md` | in | Full inbound hyperlink tree |
+| `sources/web/inbound-notes.md` | in | Sitemap / nav notes (~7.4k URLs) |
+| `sources/web/series-a.md` | out | Official `/series-a` page extract |
+| `sources/web/README.md` | in/out | Web pack index |
+| `sources/x/BRIEF.md` | X | X profile / campaign brief |
+| `sources/x/series-a.md` | X | Series A day on X |
+| `sources/x/README.md` | X | Handles + status IDs |
+| `sources/x/assets/` | X | Series A screenshots |
+| `sources/special-topics/*` | special | Kevin CTO / biohacking / Feminade packs |
+| `assets/` | X | Company + founder profile screenshots |
 
-## Agent attachment paths (if useful)
+## Legacy stubs (do not use as source of truth)
 
-- `/home/box/agent-data/agents/70df4b9e-b773-4ef1-bd7b-9b9397df5d5f/attachments/` — long website brief
-- `/home/box/agent-data/agents/def501c6-6579-4d4b-a903-a6f83e76b861/attachments/` — shorter site brief
-- `/home/box/agent-data/agents/5b6cff69-0954-40db-8505-009d2a8fa133/attachments/` — X PNGs
+| Stub | Points to |
+| --- | --- |
+| `sources/website-brief.md` | `sources/web/company-brief.md` |
+| `sources/x-brief.md` | `sources/x/BRIEF.md` |
 
-## Evidence labels used in company docs
+## Evidence labels
 
 | Label | Meaning |
 | --- | --- |
-| *(unmarked / official-site)* | From superpower.com pages |
+| *(unmarked / official-site)* | From superpower.com |
 | **[inferred from checkout catalog JSON]** | Embedded checkout SKU amounts |
-| **[off-site]** | Press, Sacra, LinkedIn, dockets, third-party estimates |
-| **[X]** | Public X.com profile notes |
-| **Conflict** | Same-site or cross-source disagreement — both sides kept |
-
-## Source packs (preferred paths)
-
-- Web: `sources/web/README.md`, `sources/web/company-brief.md`, `sources/web/inbound-tree.md`, `sources/web/inbound-notes.md`
-- X: `sources/x/README.md`, `sources/x/BRIEF.md`, `sources/x/series-a.md` (+ `sources/x/assets/` screenshots)
-- Special topics: `sources/special-topics/README.md` (Kevin CTO stepdown, biohacking, Feminade, Feminade inbound)
+| **[off-site]** | Press, Sacra, LinkedIn, dockets, third-party |
+| **[X]** | Public X.com notes |
+| **Conflict** | Disagreement — both sides kept |

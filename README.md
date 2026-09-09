@@ -1,50 +1,57 @@
 # Superpower Health — Company Profile
 
-Private-repo-ready consolidation of public Superpower Health materials.  
+Public materials consolidated for a clean reading order.  
 **Compiled:** September 2026 · **Do not invent facts** — conflicts are preserved and sourced.
 
-Target remote (not pushed from this tree): `https://github.com/mchu-1/superpower`
+Repo: https://github.com/mchu-1/superpower
 
-## Index
+## Start here
+
+1. **[company/narrative.md](company/narrative.md)** — primary company narrative (landing read)
+2. **[company/founders-and-team.md](company/founders-and-team.md)** — founders & core team narratives (companion)
+
+## Company reference (tables / facts)
 
 | Path | Contents |
 | --- | --- |
 | [company/overview.md](company/overview.md) | Snapshot, legal name, product, HQ, funding |
-| [company/leadership.md](company/leadership.md) | Founders, execs, medical advisory |
+| [company/leadership.md](company/leadership.md) | Founders, execs, medical advisory (roster) |
 | [company/product-pricing.md](company/product-pricing.md) | Membership & pricing (discrepancies flagged) |
 | [company/labs-geography.md](company/labs-geography.md) | Quest/LabCorp, states, availability |
-| [company/biomedical-engineering.md](company/biomedical-engineering.md) | Biomarker panel, clinical intelligence, OrganAge, assay classes |
-| [company/legal-compliance.md](company/legal-compliance.md) | Key legal pages + notes |
+| [company/biomedical-engineering.md](company/biomedical-engineering.md) | Biomarker panel, clinical intelligence, OrganAge |
 | [company/investors.md](company/investors.md) | Series A and backers |
+| [company/legal-compliance.md](company/legal-compliance.md) | Key legal pages + notes |
 | [company/contact.md](company/contact.md) | Emails, socials, careers |
-| [sources/web/company-brief.md](sources/web/company-brief.md) | Full official-site company brief |
-| [sources/web/inbound-notes.md](sources/web/inbound-notes.md) | Sitemap (~7.4k) + primary nav notes |
-| [sources/x/README.md](sources/x/README.md) | X handles + status IDs (OrganAge, Giannis, Series A) |
-| [sources/x/series-a.md](sources/x/series-a.md) | Series A day on X (status IDs, screenshots) |
-| [sources/x/BRIEF.md](sources/x/BRIEF.md) | X/Twitter compiled brief |
-| [sources/series-a.md](sources/series-a.md) | Official Series A page notes |
-| [sources/website-brief.md](sources/website-brief.md) | Legacy copy of primary site brief (superseded by `sources/web/`) |
-| [sources/x-brief.md](sources/x-brief.md) | Legacy X brief (superseded by `sources/x/`) |
-| [assets/](assets/) | X profile screenshots (company + founders) |
-| [sources/special-topics/](sources/special-topics/) | Special topics: Kevin CTO exit, biohacking, Feminade (+ inbound) |
-| [SOURCES.md](SOURCES.md) | Provenance table |
 
-## How sources were consolidated
+## Special topics
 
-| Agent label | Role | What it contributed |
+| Path | Topic |
+| --- | --- |
+| [sources/special-topics/kevin-cto-stepdown.md](sources/special-topics/kevin-cto-stepdown.md) | Kevin CTO step-down |
+| [sources/special-topics/kevin-biohacking.md](sources/special-topics/kevin-biohacking.md) | Kevin biohacking background |
+| [sources/special-topics/kevin-on-x.md](sources/special-topics/kevin-on-x.md) | Kevin on X (public scrape) |
+| [sources/special-topics/feminade.md](sources/special-topics/feminade.md) | Feminade (thin index) |
+| [sources/special-topics/feminade-inbound.md](sources/special-topics/feminade-inbound.md) | Feminade inbound / on-site |
+| [sources/special-topics/feminade-outbound.md](sources/special-topics/feminade-outbound.md) | Feminade outbound / off-site |
+
+Index: [sources/special-topics/README.md](sources/special-topics/README.md)
+
+## Source packs (evidence)
+
+| Pack | Path | Lane |
 | --- | --- | --- |
-| **superpower (in)** | Official website inbound crawl | Sitemap/nav → `sources/web/inbound-notes.md`; primary facts for overview, product, labs, legal, contact |
-| **superpower (out)** | Official-site sourced company brief | Full brief → `sources/web/company-brief.md` (also mirrored historically as `sources/website-brief.md`) |
-| **superpower (X)** | X.com public profiles | `sources/x/` (README + BRIEF + `series-a.md`) + PNGs in `assets/` and `sources/x/assets/`; OrganAge/Giannis/Series A status IDs; Kevin Unkrich step-away |
-| **superpower (engineer)** | Biomedical engineering map | `company/biomedical-engineering.md` — panel, clinical intel, OrganAge |
-| **special-topics** | Diligence packs (Kevin exit / biohacking / Feminade) | `sources/special-topics/` — CTO stepdown, biohacking, Feminade (+ inbound on-site) |
+| Web | [sources/web/](sources/web/) | Official site in/out |
+| X | [sources/x/](sources/x/) | Public X profiles & campaigns |
+| Special topics | [sources/special-topics/](sources/special-topics/) | Diligence packs |
 
-**Preference order:** official-site facts first; Series A page as canonical funding narrative; off-site / inferred / conflicting claims marked clearly in company docs.
+Provenance map: [SOURCES.md](SOURCES.md)
 
 ## Assets
 
-- `assets/company-superpower.png` — @superpower
-- `assets/max-marchione.png` — @maxmarchione
-- `assets/jacob-peters.png` — @J__Cub
-- `assets/kevin-unkrich.png` — @KevinUnkrich
-- `sources/x/assets/series-a-*.png` — Series A announcement / roll-call / Gagan reaction
+- [assets/](assets/) — company / founder X profile screenshots
+- [sources/x/assets/](sources/x/assets/) — Series A X screenshots
+- [sources/special-topics/assets/](sources/special-topics/assets/) — Kevin / Feminade screenshots
+
+## Preference order
+
+Official-site facts first → Series A page as canonical funding narrative → X / off-site / inferred claims labelled in place. Legacy top-level stubs (`sources/website-brief.md`, `sources/x-brief.md`) point at canonical paths under `sources/web/` and `sources/x/`.
