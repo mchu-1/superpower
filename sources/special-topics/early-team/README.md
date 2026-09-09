@@ -4,7 +4,7 @@
 **Lane:** Core/founding team members **without biomedical training** (product, design, eng, growth).  
 **Seed subject:** Hannah Ahn (Founding Designer / Head of Design).  
 **Output date:** 2026-09-09 (AEST / UTC+10).  
-**GitHub:** Do **not** push; local drafts only under this folder.
+**GitHub:** Tracked under `sources/special-topics/early-team/` on main.
 
 ---
 
@@ -13,6 +13,7 @@
 | Path | Contents |
 |---|---|
 | [`hannah-ahn.md`](./hannah-ahn.md) | Hannah Ahn public profile: LinkedIn, X, role, prior companies, education, non-biomed assessment, labeled claims |
+| [`hannah-ahn-inbound.md`](./hannah-ahn-inbound.md) | On-site inbound pack: Head of Design byline, `/hannah` → `via=super-hannah` founder-class vanity, adjacent design cluster |
 | [`early-non-biomed-roster.md`](./early-non-biomed-roster.md) | Table of early non-biomed candidates + confidence; explicit biomed exclusions |
 | [`README.md`](./README.md) | This index |
 

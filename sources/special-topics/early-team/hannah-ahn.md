@@ -7,6 +7,10 @@
 
 ---
 
+**Related (inbound / on-site):** [`hannah-ahn-inbound.md`](./hannah-ahn-inbound.md) — Head of Design named on Jason Combs join post; **`/hannah` → `via=super-hannah`** (founder-class vanity). Adjacent design seeds: Jason Combs, Tracy Chen, Aimee Lee, Annie Whelan (on-site blog URLs in inbound pack).
+
+---
+
 ## Snapshot
 
 | Field | Value | Confidence | Source type |

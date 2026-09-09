@@ -26,7 +26,7 @@
 | **Max Marchione** | Co-Founder (often COO/CEO-facing in press) | Founded 2023 | Dropped out final term BCom (Math/Stats/Finance), USyd; Haas exchange; ex-Goldman IB — [LinkedIn] | Named founder in TechCrunch/Forbes/BusinessWire; Forbes AU profile | **@maxmarchione** | **High** | [primary — TechCrunch]; [primary — Forbes AU] |
 | **Kevin Unkrich** | Co-Founder & CTO (later stepped away — LinkedIn search note ~Mar 2026) | From ~Oct 2022/2023 founding | B.S. Computer Science & Engineering, Ohio State; ex-Amazon SWE; YC S20 Monosi CEO — [LinkedIn / The Org] | Named co-founder & CTO in TechCrunch, BusinessWire, Fierce | **@kevinunkrich** | **High** | CS/eng background; **not** biomedical degree. [primary — TechCrunch]; [secondary — The Org] |
 | **Nikita Mashchenko** | Founding Engineer → Founding Senior Engineer | **Dec 2023** (first hire); SF from Oct 2024 | CS @ UIUC / UIC; prior Teameights, Bloom Credit — software only | Self: “first hire and founding engineer”; LinkedIn dates Dec 2023 | *[not confirmed in this pass]* | **High** | [primary — LinkedIn post 2025-04-22]; [LinkedIn profile via search] |
-| **Hannah Ahn** | Founding Designer → Head of Design | **Jul 2024**; Head of Design Apr 2025 | Design/PM (Canva, Flair agency); UNSW CS/Science discontinued — **no MD** | Self: Founding Head of Design; ~9 months pre–Apr 2025 announce | **@hannah_ahn** (legacy `_hannahahn` 404) | **High** | See `hannah-ahn.md` |
+| **Hannah Ahn** | Founding Designer → Head of Design | **Jul 2024**; Head of Design Apr 2025 | Design/PM (Canva, Flair agency); UNSW CS/Science discontinued — **no MD** | Self: Founding Head of Design; ~9 months pre–Apr 2025 announce; on-site Head of Design + **`/hannah` → `via=super-hannah`** | **@hannah_ahn** (legacy `_hannahahn` 404) | **High** | See `hannah-ahn.md` + [`hannah-ahn-inbound.md`](./hannah-ahn-inbound.md) |
 | **Amada Reyes** | Founding Team (GTM / community / creator) | **Jan 2024 – Jan 2026** (LinkedIn) | Founder of Buttr (wellness consumer/community); prior Growth roles (Glass, DocuSign Product) — **no MD found** | Explicit “Founding Team”; Fritz Stauffacher post describes GTM/community lead | *[not confirmed]* | **Med-High** | Wellness founder ≠ clinician. Dates: LinkedIn Jan 2024. [LinkedIn]; [Humantic secondary] |
 | **Albe Tremblay (Albe T.)** | Founding Team, GTM Partnerships → Advisor | **Aug 2024 – Aug 2025**; Advisor current | BBA, USC; ex-EY consultant — business | LinkedIn “Founding Team GTM Partnerships”; thanked in Hannah Ahn announce | *[not confirmed]* | **Med-High** | [LinkedIn]; [Happenstance secondary] |
 | **Fritz Stauffacher** | DevOps Lead | **Aug 2024** – Present | Career DevOps/SRE (Streamdal, Hivelocity, Batch) — engineering | Early infra hire in beta year; named in CEO thanks lists | *[not confirmed]* | **Med** | Early relative to Series A; not “founding engineer” title. [LinkedIn] |
@@ -73,6 +73,22 @@ Press does **not** name Hannah Ahn or Nikita Mashchenko in the TechCrunch launch
 **Next ring:** Fritz Stauffacher (infra), Ajay Prakash (growth), Shaun Miller (med ops — verify non-clinical credentials), Audric Serador (later founding eng).
 
 ---
+
+---
+
+## Adjacent design cluster seeds (on-site)
+
+Not yet full memos — useful next digs from Hannah inbound:
+
+| Person | On-site signal | Blog URL |
+|---|---|---|
+| **Jason Combs** | Brand/content; recruited via Hannah | https://superpower.com/blog/why-i-joined-superpower-jason-combs |
+| **Tracy Chen** | Product design; Daybreak agency (Superpower client ~2 yrs) | https://superpower.com/blog/why-i-joined-superpower-tracy-chen |
+| **Aimee Lee** | Branding → Superpower brand rebuild | https://superpower.com/blog/why-i-joined-superpower-aimee-lee |
+| **Annie Whelan** | Benefits consulting → health tech | https://superpower.com/blog/why-i-joined-superpower-annie-whelan |
+
+**Note:** `/hannah` redirects to `/welcome?via=super-hannah` (founder-class vanity). Tracy / Aimee / Annie / Jason short paths → 404 (no vanity). Details: [`hannah-ahn-inbound.md`](./hannah-ahn-inbound.md).
+
 
 ## Gaps
 
