@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | **Max Marchione** | CEO / Co-founder | Series A letter; careers (“Max, the founder”). Public emails: `max@superpower.com`, `m.marchione@superpower.com` (roadmap / why pages). **[X]** @maxmarchione |
 | **Jacob Peters** | Executive Chairman / Co-founder | Series A page. Some **[off-site]** databases still label him CEO — prefer company Series A titles. **[X]** @J__Cub |
-| **Kevin Unkrich** | Co-founder (engineering / former CTO) | Official origin story often says **“Kevin”** (first name only) — https://superpower.com/blog/superpower-is-now-199. Full name + status from **[X]** @KevinUnkrich: pinned note that he **stepped away after 3+ years as co-founder/CTO** (Mar pinned post in X brief). Treat current operating role as **not confirmed on primary marketing pages**. Diligence: [kevin-cto-stepdown.md](../sources/special-topics/kevin-cto-stepdown.md), [kevin-biohacking.md](../sources/special-topics/kevin-biohacking.md). |
+| **Kevin Unkrich** | Co-founder (engineering / former CTO) | Official origin story often says **“Kevin”** (first name only) — https://superpower.com/blog/superpower-is-now-199. Full name + status from **[X]** @KevinUnkrich: pinned note that he **stepped away after 3+ years as co-founder/CTO** (Mar pinned post in X brief). Treat current operating role as **not confirmed on primary marketing pages**. Diligence: [kevin-on-x.md](../sources/special-topics/kevin-on-x.md) (stubs: [cto-stepdown](../sources/special-topics/kevin-cto-stepdown.md), [biohacking](../sources/special-topics/kevin-biohacking.md)). |
 | **Dr. Anant Vinjamoori, MD** | Chief Longevity Officer | Manifesto; Series A page. **[off-site]** Harvard MD/MBA; prior Virta, Modern Age |
 
 ### Founding narratives (Series A page)
@@ -41,4 +41,4 @@ Flat “founder mode”; in-person SF for engineering/product/design/ops/legal/c
 
 ## Cross-checks
 - **Giannis wording split (X):** company = “first brand ambassador”; Jacob = “first athlete.”
-- **Feminade:** not on official site as a dedicated acquisition page (unlike Base). See [feminade.md](../sources/special-topics/feminade.md) and [feminade-inbound.md](../sources/special-topics/feminade-inbound.md).
+- **Feminade:** not on official site as a dedicated acquisition page (unlike Base). See [feminade.md](../sources/special-topics/feminade.md).

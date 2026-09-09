@@ -1,21 +1,21 @@
 # Superpower Health — Company Profile
 
-Public materials consolidated for a clean reading order.  
-**Compiled:** September 2026 · **Do not invent facts** — conflicts are preserved and sourced.
+Public materials for [mchu-1/superpower](https://github.com/mchu-1/superpower).  
+**Compiled:** September 2026 · Do not invent facts — conflicts stay labelled in place.
 
-Repo: https://github.com/mchu-1/superpower
+## Reading order
 
-## Start here
+1. **[company/narrative.md](company/narrative.md)** — primary company narrative  
+2. **[company/founders-and-team.md](company/founders-and-team.md)** — founders & core team  
+3. **company/** tables (below) — reference facts  
+4. **sources/** — evidence packs by lane
 
-1. **[company/narrative.md](company/narrative.md)** — primary company narrative (landing read)
-2. **[company/founders-and-team.md](company/founders-and-team.md)** — founders & core team narratives (companion)
-
-## Company reference (tables / facts)
+## Company tables
 
 | Path | Contents |
 | --- | --- |
 | [company/overview.md](company/overview.md) | Snapshot, legal name, product, HQ, funding |
-| [company/leadership.md](company/leadership.md) | Founders, execs, medical advisory (roster) |
+| [company/leadership.md](company/leadership.md) | Founders, execs, medical advisory |
 | [company/product-pricing.md](company/product-pricing.md) | Membership & pricing (discrepancies flagged) |
 | [company/labs-geography.md](company/labs-geography.md) | Quest/LabCorp, states, availability |
 | [company/biomedical-engineering.md](company/biomedical-engineering.md) | Biomarker panel, clinical intelligence, OrganAge |
@@ -23,35 +23,31 @@ Repo: https://github.com/mchu-1/superpower
 | [company/legal-compliance.md](company/legal-compliance.md) | Key legal pages + notes |
 | [company/contact.md](company/contact.md) | Emails, socials, careers |
 
-## Special topics
+## Sources by lane
 
-| Path | Topic |
-| --- | --- |
-| [sources/special-topics/kevin-cto-stepdown.md](sources/special-topics/kevin-cto-stepdown.md) | Kevin CTO step-down |
-| [sources/special-topics/kevin-biohacking.md](sources/special-topics/kevin-biohacking.md) | Kevin biohacking background |
-| [sources/special-topics/kevin-on-x.md](sources/special-topics/kevin-on-x.md) | Kevin on X (public scrape) |
-| [sources/special-topics/feminade.md](sources/special-topics/feminade.md) | Feminade (thin index) |
-| [sources/special-topics/feminade-inbound.md](sources/special-topics/feminade-inbound.md) | Feminade inbound / on-site |
-| [sources/special-topics/feminade-outbound.md](sources/special-topics/feminade-outbound.md) | Feminade outbound / off-site |
-
-Index: [sources/special-topics/README.md](sources/special-topics/README.md)
-
-## Source packs (evidence)
-
-| Pack | Path | Lane |
+| Lane | Path | Holds |
 | --- | --- | --- |
-| Web | [sources/web/](sources/web/) | Official site in/out |
-| X | [sources/x/](sources/x/) | Public X profiles & campaigns |
-| Special topics | [sources/special-topics/](sources/special-topics/) | Diligence packs |
+| Web | [sources/web/](sources/web/) | Live site facts, outbound tree, inbound-tree map |
+| X | [sources/x/](sources/x/) | Live handles + status IDs |
+| Special topics | [sources/special-topics/](sources/special-topics/) | Deep dives once each (Kevin X, Feminade) |
 
 Provenance map: [SOURCES.md](SOURCES.md)
 
+## Special topics (index)
+
+| Path | Topic |
+| --- | --- |
+| [kevin-on-x.md](sources/special-topics/kevin-on-x.md) | Kevin on X (CTO step-down, biohacking, Base/Feminade) |
+| [kevin-cto-stepdown.md](sources/special-topics/kevin-cto-stepdown.md) | Stub → kevin-on-x |
+| [kevin-biohacking.md](sources/special-topics/kevin-biohacking.md) | Stub → kevin-on-x |
+| [feminade.md](sources/special-topics/feminade.md) | Feminade inbound + outbound (one file) |
+
 ## Assets
 
-- [assets/](assets/) — company / founder X profile screenshots
-- [sources/x/assets/](sources/x/assets/) — Series A X screenshots
-- [sources/special-topics/assets/](sources/special-topics/assets/) — Kevin / Feminade screenshots
+- [assets/](assets/) — company / founder profile screenshots  
+- [sources/x/assets/](sources/x/assets/) — Series A X screenshots  
+- [sources/special-topics/assets/](sources/special-topics/assets/) — Kevin / Feminade screenshots  
 
 ## Preference order
 
-Official-site facts first → Series A page as canonical funding narrative → X / off-site / inferred claims labelled in place. Legacy top-level stubs (`sources/website-brief.md`, `sources/x-brief.md`) point at canonical paths under `sources/web/` and `sources/x/`.
+Official-site facts first → Series A page as canonical funding → X / off-site / inferred labelled in place.
