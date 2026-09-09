@@ -12,6 +12,11 @@
 | Notable individuals (named on page) | Evan Moore (DoorDash founder), Jonathan Neiman (Sweetgreen founder), Scott and Cyan Banister, Balaji Srinivasan, Vanessa Hudgens, Steve Aoki, Logan Paul, Giannis Antetokounmpo, and others |
 | Signed leadership | Max Marchione, CEO · Jacob Peters, Executive Chairman |
 
+## X announcement **[X]**
+
+- Status ID: [`1914701970830713224`](https://x.com/maxmarchione/status/1914701970830713224) (@maxmarchione, 2025-04-22)
+- X framing leads with **Forerunner and Day One**; the official `/series-a` site roster is wider (Susa, Long Journey, Family Fund, Bond, Opal, Valia, Visible, Winklevoss, and additional individuals). See [../sources/x/series-a.md](../sources/x/series-a.md).
+
 ## Additional names from manifesto / marketing (official site)
 
 Kirsten Green (Forerunner), Sebastian Caliri, Arielle Zuckerberg, Chad Byers, Cameron & Tyler Winklevoss; athlete/celebrity affiliates also include Myles Garrett, Shaan Puri in some manifesto/marketing contexts (secondary brief).

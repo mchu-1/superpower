@@ -19,7 +19,8 @@ Target remote (not pushed from this tree): `https://github.com/mchu-1/superpower
 | [company/contact.md](company/contact.md) | Emails, socials, careers |
 | [sources/web/company-brief.md](sources/web/company-brief.md) | Full official-site company brief |
 | [sources/web/inbound-notes.md](sources/web/inbound-notes.md) | Sitemap (~7.4k) + primary nav notes |
-| [sources/x/README.md](sources/x/README.md) | X handles + status IDs (OrganAge, Giannis) |
+| [sources/x/README.md](sources/x/README.md) | X handles + status IDs (OrganAge, Giannis, Series A) |
+| [sources/x/series-a.md](sources/x/series-a.md) | Series A day on X (status IDs, screenshots) |
 | [sources/x/BRIEF.md](sources/x/BRIEF.md) | X/Twitter compiled brief |
 | [sources/series-a.md](sources/series-a.md) | Official Series A page notes |
 | [sources/website-brief.md](sources/website-brief.md) | Legacy copy of primary site brief (superseded by `sources/web/`) |
@@ -33,7 +34,7 @@ Target remote (not pushed from this tree): `https://github.com/mchu-1/superpower
 | --- | --- | --- |
 | **superpower (in)** | Official website inbound crawl | Sitemap/nav → `sources/web/inbound-notes.md`; primary facts for overview, product, labs, legal, contact |
 | **superpower (out)** | Official-site sourced company brief | Full brief → `sources/web/company-brief.md` (also mirrored historically as `sources/website-brief.md`) |
-| **superpower (X)** | X.com public profiles | `sources/x/` (README + BRIEF) + PNGs in `assets/`; OrganAge/Giannis status IDs; Kevin Unkrich step-away |
+| **superpower (X)** | X.com public profiles | `sources/x/` (README + BRIEF + `series-a.md`) + PNGs in `assets/` and `sources/x/assets/`; OrganAge/Giannis/Series A status IDs; Kevin Unkrich step-away |
 | **superpower (engineer)** | Biomedical engineering map | `company/biomedical-engineering.md` — panel, clinical intel, OrganAge |
 
 **Preference order:** official-site facts first; Series A page as canonical funding narrative; off-site / inferred / conflicting claims marked clearly in company docs.
@@ -44,3 +45,4 @@ Target remote (not pushed from this tree): `https://github.com/mchu-1/superpower
 - `assets/max-marchione.png` — @maxmarchione
 - `assets/jacob-peters.png` — @J__Cub
 - `assets/kevin-unkrich.png` — @KevinUnkrich
+- `sources/x/assets/series-a-*.png` — Series A announcement / roll-call / Gagan reaction

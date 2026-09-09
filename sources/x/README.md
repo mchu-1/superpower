@@ -11,6 +11,18 @@ Handles and status IDs from **superpower (X)** scrapes. Compiled 2026-09-09 (Aus
 | [@maxmarchione](https://x.com/maxmarchione) | Max Marchione | CEO / Co-founder |
 | [@KevinUnkrich](https://x.com/KevinUnkrich) | Kevin Unkrich | Co-founder / former CTO; **pinned step-away Mar 2026** |
 
+
+## Series A — 2025-04-22
+
+See [series-a.md](series-a.md) (timeline, engagement, X vs site roster, screenshots in `assets/`).
+
+| Role | Status ID |
+| --- | --- |
+| Announcement (@maxmarchione) | `1914701970830713224` |
+| Supporter roll call (@maxmarchione) | `1914701972311302554` |
+| Gagan Biyani | `1914712823458095123` |
+| Max reply to Gagan | `1914719696085246332` |
+
 ## Status IDs
 
 URL pattern: `https://x.com/i/status/{id}`

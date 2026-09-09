@@ -11,10 +11,10 @@
 | Inbound sitemap / nav notes | **superpower (in)** | inbound scrape (def501c6) | Sep 2026 | → `sources/web/inbound-tree.md` (full) + `sources/web/inbound-notes.md` (~7.4k URLs; Explore / Compare / Company / Legal) |
 | Multi-source diligence brief | (workspace pack) | `/workspace/superpower/SUPERPOWER_HEALTH_COMPANY_BRIEF.md` | Sep 2026 | Includes off-site press, lawsuit docket, Sacra; used only where labelled **[off-site]** |
 | Official Series A notes | first-party page extract | `/workspace/superpower/OFFICIAL_Series_A.md` | Sep 2026 | From https://superpower.com/series-a → `sources/series-a.md` |
-| X/Twitter brief + status IDs + screenshots | **superpower (X)** | `/workspace/superpower-x/BRIEF.md` + deep OrganAge/Giannis + PNGs | Sep 2026 | → `sources/x/` + `assets/` (legacy: `sources/x-brief.md`). Attachment: agent `5b6cff69-…` |
+| X/Twitter brief + status IDs + screenshots | **superpower (X)** | `/workspace/superpower-x/BRIEF.md` + deep OrganAge/Giannis/Series A + PNGs | Sep 2026 | → `sources/x/` (incl. `series-a.md` + `assets/`) + root `assets/` (legacy: `sources/x-brief.md`). Attachment: agent `5b6cff69-…` |
 | Company overview / pricing / labs / legal / contact | consolidated | derived from above | Sep 2026 | Prefer official-site; flag conflicts |
 | Leadership (Kevin full name, X status) | site + X | website briefs + x-brief | Sep 2026 | Site often says “Kevin” only; X names Kevin Unkrich |
-| Investors | Series A page | `sources/series-a.md` | Sep 2026 | Canonical $30M Forerunner-led list |
+| Investors | Series A page + X | `sources/series-a.md`, `sources/x/series-a.md` | Sep 2026 | Canonical $30M Forerunner-led list; X status `1914701970830713224` frames Forerunner+Day One |
 
 ## Agent attachment paths (if useful)
 
@@ -35,4 +35,4 @@
 ## Source packs (preferred paths)
 
 - Web: `sources/web/README.md`, `sources/web/company-brief.md`, `sources/web/inbound-tree.md`, `sources/web/inbound-notes.md`
-- X: `sources/x/README.md`, `sources/x/BRIEF.md`
+- X: `sources/x/README.md`, `sources/x/BRIEF.md`, `sources/x/series-a.md` (+ `sources/x/assets/` screenshots)
