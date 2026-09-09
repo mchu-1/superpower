@@ -108,10 +108,17 @@ Names that have appeared in LinkedIn / public company context—**may change; no
 - Shaun Miller — VP Medical Operations  
 - Sofía Prendoné Pita — Clinical Operations  
 - Manoj Arachige — Head of Product  
-- Hannah Ahn — Head of Design  
+- Hannah Ahn — Head of Design — dig: [sources/special-topics/early-team/hannah-ahn.md](../sources/special-topics/early-team/hannah-ahn.md)  
 - Tim Denman — VP Enterprise (reported in some contexts)
 
 Careers copy also claims a team dense with former founders, YC alumni, a Thiel Fellow, and operators from places like Goldman, Amazon, and Harvard Medical School. That is self-description for recruiting, not an org chart.
+
+---
+
+## Early non-biomed team (special topic)
+
+Public dig on early **non-biomed** operators (product, design, eng, growth) lives under [sources/special-topics/early-team/](../sources/special-topics/early-team/). Seed profile: **[Hannah Ahn](../sources/special-topics/early-team/hannah-ahn.md)** (Founding Designer / Head of Design). Roster index: [early-non-biomed-roster.md](../sources/special-topics/early-team/early-non-biomed-roster.md). Do not duplicate long prose here.
+
 
 ---
 

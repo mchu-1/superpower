@@ -29,7 +29,7 @@ Public materials for [mchu-1/superpower](https://github.com/mchu-1/superpower).
 | --- | --- | --- |
 | Web | [sources/web/](sources/web/) | Live site facts, outbound tree, inbound-tree map |
 | X | [sources/x/](sources/x/) | Live handles + status IDs |
-| Special topics | [sources/special-topics/](sources/special-topics/) | Deep dives once each (Kevin X, Feminade) |
+| Special topics | [sources/special-topics/](sources/special-topics/) | Deep dives once each (Kevin X, Feminade, early team) |
 
 Provenance map: [SOURCES.md](SOURCES.md)
 
@@ -41,6 +41,7 @@ Provenance map: [SOURCES.md](SOURCES.md)
 | [kevin-cto-stepdown.md](sources/special-topics/kevin-cto-stepdown.md) | Stub → kevin-on-x |
 | [kevin-biohacking.md](sources/special-topics/kevin-biohacking.md) | Stub → kevin-on-x |
 | [feminade.md](sources/special-topics/feminade.md) | Feminade inbound + outbound (one file) |
+| [early-team/](sources/special-topics/early-team/) | Early non-biomed team dig (Hannah Ahn seed) |
 
 ## Assets
 
