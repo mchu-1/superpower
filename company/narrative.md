@@ -84,7 +84,7 @@ No single price story survives 2025–2026 without footnotes. That is part of th
 | Moment / surface | Figure that appeared | Framing |
 | --- | --- | --- |
 | Launch coverage (Apr 2025) | ~$499/yr | Biannual labs, 100+ biomarkers |
-| Mid-period / blog & some FAQs | ~$199/yr | Price cut toward mass wellness |
+| Mid-period / blog & some FAQs | ~$199/yr | Historical price cut; `$199` blog **retired** 2026-09-11 (301→`/blog`) |
 | Homepage + checkout (Sep 2026) | **$349/yr** baseline; **$599/yr** NY/NJ | 150+ markers across two draws |
 | Legacy Base acquisition landing | $399 / $499 options | Older packaging still live in places |
 | Employer channel (Sacra) | ~$179/yr via Thatch | B2B benefits |

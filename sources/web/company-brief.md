@@ -1,8 +1,8 @@
 # Superpower Health — Company Brief (Official-Site Sourced)
 
-**Compiled:** 2026-09-09 (Australia/Sydney)  
+**Compiled:** 2026-09-11 (Australia/Sydney)  
 **Primary domain:** https://superpower.com/  
-**Evidence standard:** Facts below are from official Superpower pages unless marked **[off-site]** or **[inferred from checkout catalog JSON]**. Pricing and biomarker claims conflict across pages; discrepancies are flagged with source URLs.
+**Evidence standard:** Facts below are from official Superpower pages unless marked **[off-site]** or **[inferred from checkout catalog JSON]**. Pricing and biomarker claims conflict across pages; discrepancies are flagged with source URLs. **Refresh:** 2026-09-11 outbound scrape — material change = retirement of live `$199` blog URL; primary SKUs unchanged.
 
 ---
 
@@ -25,7 +25,7 @@
 ### Founders / exec (official)
 - **Max Marchione** — CEO (signed Series A letter; careers page author “Max, the founder”) — https://superpower.com/series-a , https://superpower.com/careers  
 - **Jacob Peters** — Executive Chairman — https://superpower.com/series-a  
-- Third co-founder referred to as **Kevin** (first name only) in origin story — https://superpower.com/blog/superpower-is-now-199  
+- Third co-founder referred to as **Kevin** (first name only) in origin story — historically https://superpower.com/blog/superpower-is-now-199 (**retired 2026-09-11**, 301→`/blog`; confirm alternate on-site source if needed)  
 - **Dr. Anant Vinjamoori, MD** — Chief Longevity Officer — https://superpower.com/manifesto , Series A page  
 
 ### Medical advisory / featured clinicians (marketing)
@@ -55,7 +55,7 @@ Repeated across homepage, blood-test, manifesto, etc.:
 ### Older / alternate official pricing pages (still live)
 | Claim | URL | Notes |
 | --- | --- | --- |
-| **$199/yr**, **100+ biomarkers**, one panel/year framing | https://superpower.com/blog/superpower-is-now-199 (last updated **March 26, 2026**) | Blog promo; conflicts with current $349 / 150+ / two-draw messaging |
+| **$199/yr**, **100+ biomarkers**, one panel/year framing | https://superpower.com/blog/superpower-is-now-199 → **301 redirect to** https://superpower.com/blog (observed **2026-09-11**) | **Retired:** slug no longer serves $199 content (sitemap still lists URL). Was Mar 26, 2026 blog promo; removed from live conflict set |
 | Comparison table **$349/yr** vs “other clinics” **$365/yr** | https://superpower.com/blood-test , https://superpower.com/baseline-membership | Aligns with current $349 |
 | Base acquisition landing: **$399** or **$499** annual options; optional at-home **+$99**; Galleri **+$1,092**; gut **+$239** | https://superpower.com/s/base | Older pricing; “100+ labs”; “24 US states” language |
 | CTA math **$0.82/day** (≈ $299/yr) and marketplace **$0.96/day** (≈ $349/yr) | Homepage CTAs; marketplace panels | Marketing day-rate inconsistency |
@@ -71,7 +71,7 @@ Repeated across homepage, blood-test, manifesto, etc.:
 
 ### Draws per year — discrepancy
 - **Two draws/year** (150+): homepage, how-it-works FAQ (“membership includes two comprehensive blood draws”)  
-- **One annual test** still appears in some FAQ copy on blood-test / baseline-membership pages and the $199 blog  
+- **One annual test** still appears in some FAQ copy on older landings; the $199 blog that carried one-panel framing is **retired** (301→/blog as of 2026-09-11). `/blood-test` and `/baseline-membership` now redirect via `/welcome` to `/landing/welcome-v2` (already observed 2026-09-10)  
 
 ---
 
@@ -131,10 +131,10 @@ Repeated across homepage, blood-test, manifesto, etc.:
 
 ## 8. Flagged discrepancies (must-read)
 
-1. **Price: $349 vs $199 vs $399/$499 vs $599 (NY/NJ)**  
+1. **Price: $349 vs $399/$499 vs $599 (NY/NJ)** (legacy **$199** blog retired)  
    - Current consumer homepage + checkout baseline SKU: **$349/yr**  
    - Checkout NY/NJ SKU: **$599/yr**  
-   - Blog (Mar 2026): **$199/yr**  
+   - Blog `/blog/superpower-is-now-199` (**$199/yr**): **no longer live** as of 2026-09-11 scrape (301 → `/blog`; no `$199` on scraped primary HTML)  
    - Base landing (legacy): **$399 / $499**  
 2. **Biomarker count: 150+ vs 100+ vs “over 100” / “60 core + specialty”** — same-site conflict between homepage and older FAQs/blog; blood-test FAQ still mixes “150+” with “100+” in places.  
 3. **Draws: 2/year vs 1/year** — current how-it-works vs older FAQ/blog.  
@@ -150,7 +150,7 @@ Repeated across homepage, blood-test, manifesto, etc.:
 **Core product / company**
 - `/` — Homepage  
 - `/how-it-works`  
-- `/blood-test`, `/baseline-membership` — conversion landings  
+- `/blood-test`, `/baseline-membership` — **301→`/welcome`→`/landing/welcome-v2`** (A/B); treat welcome-v2 as current conversion landing  
 - `/checkout`, `/checkout/gift`  
 - `/biomarkers`, `/biomarker-guides`, `/what-we-test` (marketplace cross-link)  
 - `/marketplace/collections/panels` and `/marketplace/products/*`  
@@ -253,7 +253,7 @@ Prefer first-hop from primary nav/footer and key marketing/legal pages. Deeper b
 - Biomarker list “See what we test” modules often show **Loading…** in static fetch — full interactive catalog may need browser.  
 - Native **App Store / Play Store** links not discoverable without browser/app deep links.  
 - Feminade acquisition **not** substantiated by a current dedicated official page; only referral JS.  
-- No invention: off-site review sites claiming $199 / $399 NY-NJ should be treated as secondary unless matched to live official pages (official checkout now shows **$599** NY/NJ for Sep-2026 baseline SKU).
+- No invention: off-site review sites claiming $199 / $399 NY-NJ should be treated as secondary unless matched to live official pages (official checkout now shows **$599** NY/NJ for Sep-2026 baseline SKU). Official `/blog/superpower-is-now-199` **$199** page retired 2026-09-11 (301→`/blog`).
 
 ---
 

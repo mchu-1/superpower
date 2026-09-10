@@ -1,6 +1,6 @@
 # Product & pricing
 
-**Conflict-heavy section.** Prefer live homepage + checkout SKUs for “current”; keep older official pages as historical/alternate.
+**Conflict-heavy section.** Prefer live homepage + checkout SKUs for “current”; keep older official pages as historical/alternate. **Refresh 2026-09-11:** `$199` blog retired (301→`/blog`).
 
 ## Current primary offer (homepage + checkout)
 
@@ -19,11 +19,11 @@
 
 | Claim | URL / source | Notes |
 | --- | --- | --- |
-| **$199/yr**, **100+ biomarkers**, one panel/year framing | https://superpower.com/blog/superpower-is-now-199 (updated **March 26, 2026**) | Blog promo; conflicts with current $349 / 150+ / two-draw |
+| **$199/yr**, **100+ biomarkers**, one panel/year framing | https://superpower.com/blog/superpower-is-now-199 → **301** to https://superpower.com/blog (observed **2026-09-11**) | **Retired:** no longer a live official-page conflict; was Mar 26, 2026 blog promo. Sitemap may still list slug |
 | Comparison table **$349/yr** vs clinics **$365/yr** | `/blood-test`, `/baseline-membership` | Aligns with current $349 |
-| Base acquisition landing: **$399** or **$499**; at-home **+$99**; Galleri **+$1,092**; gut **+$239** | https://superpower.com/s/base | Legacy; “100+ labs”; “24 US states” language |
+| Base acquisition landing: **$399** or **$499**; at-home **+$99**; Galleri **+$1,092**; gut **+$239** | https://superpower.com/s/base | Legacy **still live**; “100+ labs”; “24 US states” language |
 | CTA math **$0.82/day** (≈ $299/yr) vs marketplace **$0.96/day** (≈ $349/yr) | Homepage / marketplace | Day-rate inconsistency |
-| Advanced Blood Panel add-ons | Quest **$388**; BioRef **$598**; Advanced upgrade **$189** / NY-NJ **$199** | **[inferred from checkout catalog JSON]** |
+| Advanced Blood Panel add-ons | Quest **$388**; BioRef **$598**; Advanced upgrade **$189** / NY-NJ **$199** | **[inferred from checkout catalog JSON]** (add-on SKU, not membership) |
 | Launch **$499**/yr **[off-site]** | TechCrunch Apr 2025 | Historical launch price |
 | Employer ~**$179**/yr via Thatch **[off-site]** | Sacra | B2B channel |
 
@@ -31,9 +31,9 @@
 
 1. Current consumer baseline: **$349/yr**
 2. Checkout NY/NJ: **$599/yr**
-3. Blog (Mar 2026): **$199/yr**
-4. Base landing legacy: **$399 / $499**
-5. Press history: **$499** launch → later **$199** class messaging
+3. Base landing legacy (**still live**): **$399 / $499**
+4. Blog `$199` (**retired** 2026-09-11, 301→`/blog`) — historical only
+5. Press history: **$499** launch → later **$199** class messaging (historical)
 
 ## What’s included (current marketing consensus)
 
@@ -49,7 +49,7 @@
 | Topic | Claim A | Claim B |
 | --- | --- | --- |
 | Biomarker count | **150+** (homepage) | **100+** / “over 100” (Series A page, older FAQ/blog); blood-test FAQ sometimes mixes both |
-| Draws per year | **Two** (homepage, how-it-works FAQ) | **One annual test** still on some blood-test / baseline FAQ and $199 blog |
+| Draws per year | **Two** (homepage, how-it-works FAQ) | **One annual test** remnants on older landings; `$199` blog that carried one-panel framing is **retired** (301→`/blog`, 2026-09-11) |
 | Panel framing | Baseline + **60+** retest | Older “single panel” packaging |
 
 ## Insurance / HSA–FSA

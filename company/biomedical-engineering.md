@@ -1,6 +1,6 @@
 # Biomedical engineering map
 
-**Compiled:** 2026-09-09 (Australia/Sydney)  
+**Compiled:** 2026-09-11 (Australia/Sydney)  
 **Owner lens:** biomarker panel + clinical intelligence layer + related bioeng stack  
 **Evidence standard:** Official-site preferred. Conflicts / litigation / secondary labelled.
 
@@ -93,7 +93,7 @@ See also: [overview.md](overview.md), [product-pricing.md](product-pricing.md).
 
 - **Current FAQ consensus:** baseline panel + **~60+ biomarker retest** later = **150+ combined** for the year.
 - Company states reports are a **mix of direct and derived** metrics ([best-biomarkers](https://superpower.com/best-biomarkers)).
-- **Conflicts:** older pages still say **100+** / one annual draw; blog **$199**.
+- **Conflicts:** older pages still say **100+** / one annual draw; legacy `$199` blog **retired** (301→`/blog` as of 2026-09-11).
 
 ### Lab partners
 

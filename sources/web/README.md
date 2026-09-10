@@ -1,9 +1,10 @@
 # Superpower Health — Web & outbound sources
 
-**Compiled:** 2026-09-09 (Australia/Sydney)  
+**Compiled:** 2026-09-11 (Australia/Sydney)  
 **Primary:** [superpower.com](https://superpower.com/)  
 **Entity:** Superpower Health, Inc.  
-**Method:** Official pages + first-hop outbound links. Checkout prices from embedded catalog JSON.
+**Method:** Official pages + first-hop outbound links. Checkout prices from embedded catalog JSON.  
+**Refresh:** 2026-09-11 outbound scrape — legacy `$199` blog **retired** (301→`/blog`); primary SKUs unchanged.
 
 ---
 
@@ -42,8 +43,10 @@ flowchart TB
     NY["NY/NJ checkout SKU\n$599/yr"]
   end
   subgraph legacy [Still-live legacy]
-    B["Blog Mar 2026\n$199/yr"]
     Base["/s/base landing\n$399 / $499"]
+  end
+  subgraph retired [Retired as of 2026-09-11]
+    B["Blog $199\n301 → /blog"]
   end
   H --> NY
 ```
@@ -52,8 +55,8 @@ flowchart TB
 | --- | --- | --- |
 | Homepage + checkout `baseline-membership-sep-2026` | **$349/yr** | 150+ · **2 draws** |
 | Checkout NY/NJ SKU | **$599/yr** | (state variant; BioRef naming) |
-| [Blog $199](https://superpower.com/blog/superpower-is-now-199) | $199/yr | 100+ · 1 draw framing |
-| [/s/base](https://superpower.com/s/base) | $399 / $499 | 100+ · older “24 states” copy |
+| [/s/base](https://superpower.com/s/base) | $399 / $499 | 100+ · older “24 states” copy (**still live**) |
+| [Blog $199](https://superpower.com/blog/superpower-is-now-199) | $199/yr (historical) | **Retired** 2026-09-11 — 301→`/blog`; no `$199` on scraped primary HTML |
 
 **Also:** CTA day-rates ($0.82 vs $0.96/day) · Advanced panel add-ons Quest **$388** / BioRef **$598**.
 
@@ -154,7 +157,7 @@ flowchart TB
 
 ## Must-flag discrepancies
 
-1. **$349 vs $199 vs $399/$499 vs $599 (NY/NJ)**
+1. **$349 vs $399/$499 vs $599 (NY/NJ)** (legacy **$199** blog **retired** 2026-09-11, 301→`/blog`)
 2. **150+ / 2 draws** vs older **100+ / 1 draw**
 3. Quest **2,000+** vs **3,000+**
 4. State lists differ homepage vs how-it-works

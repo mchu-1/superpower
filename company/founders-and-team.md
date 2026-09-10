@@ -161,7 +161,7 @@ Together they sell one sentence: **the people who built Superpower were failed b
 1. https://superpower.com/series-a — founding wounds, Max CEO / Jacob Executive Chairman  
 2. https://superpower.com/careers — culture, Max voice  
 3. https://superpower.com/manifesto — Anant + advisory orbit  
-4. https://superpower.com/blog/superpower-is-now-199 — “Kevin” in origin copy  
+4. https://superpower.com/blog/superpower-is-now-199 — “Kevin” in origin copy (**retired** 2026-09-11, 301→`/blog`)  
 5. Public X profiles — @maxmarchione, @J__Cub, @KevinUnkrich (status pin)  
 6. Press / Sacra / TechCrunch — background colour; labelled off-site where used  
 

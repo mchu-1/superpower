@@ -1,6 +1,6 @@
 # Feminade — acquisition / relationship to Superpower
 
-**Compiled:** 2026-09-09 (Australia/Sydney)  
+**Compiled:** 2026-09-11 (Australia/Sydney)  
 **Do not invent.** Claims tagged with source URL, **[X]**, **[off-site]**, or **[inferred]**.
 
 ---
@@ -38,7 +38,7 @@ flowchart LR
 | `/s/feminade` | **HTTP 404** | https://superpower.com/s/feminade |
 | Sitemap webflow | **No** `feminade` / no `/s/feminade` | https://superpower.com/sitemap-webflow.xml |
 | `/s/base` | **200** — “Base has been acquired by Superpower…” | https://superpower.com/s/base |
-| Homepage / blog origin | **No** Feminade mention | Homepage; https://superpower.com/blog/superpower-is-now-199 |
+| Homepage / blog origin | **No** Feminade mention | Homepage; historically https://superpower.com/blog/superpower-is-now-199 (**retired** 2026-09-11) |
 | `superpower.com/feminade` | **301 →** `/welcome?via=feminade` → welcome-v2 | Referral funnel, not acq LP |
 | `feminade.com` | **301 →** Superpower `?via=feminade` | Brand domain under Superpower control |
 | Related paths (`/partners/feminade`, `/join/feminade`) | **404** | — |
